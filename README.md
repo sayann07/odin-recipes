@@ -1,1 +1,2 @@
 This project is about a simple webpage on recipes given by the odin project.
+The concepts used in this project are using usual boilerplate syntax, ordered and unordered lists, linking, inserting images and other minor mods.
